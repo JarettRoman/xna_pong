@@ -1,0 +1,9 @@
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\ball.xnb
+c:\users\jarett\documents\visual studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\paddle.xnb
+C:\Users\Jarett\Documents\Visual Studio 2010\Projects\Pong\Pong\Pong\bin\x86\Debug\Content\Times New Roman.xnb
